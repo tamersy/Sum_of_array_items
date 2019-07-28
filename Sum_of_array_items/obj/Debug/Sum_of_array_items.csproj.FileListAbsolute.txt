@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Sum_of_array_items\Sum_of_array_items\bin\Debug\Sum_of_array_items.exe.config
+C:\Users\USER\source\repos\Sum_of_array_items\Sum_of_array_items\bin\Debug\Sum_of_array_items.exe
+C:\Users\USER\source\repos\Sum_of_array_items\Sum_of_array_items\bin\Debug\Sum_of_array_items.pdb
+C:\Users\USER\source\repos\Sum_of_array_items\Sum_of_array_items\obj\Debug\Sum_of_array_items.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Sum_of_array_items\Sum_of_array_items\obj\Debug\Sum_of_array_items.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Sum_of_array_items\Sum_of_array_items\obj\Debug\Sum_of_array_items.exe
+C:\Users\USER\source\repos\Sum_of_array_items\Sum_of_array_items\obj\Debug\Sum_of_array_items.pdb
